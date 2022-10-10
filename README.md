@@ -10,5 +10,4 @@ This includes various ways that we can compare two strings.
 <img width="574" alt="image" src="https://user-images.githubusercontent.com/100184045/194793905-04ace7e1-4421-4ab1-8a6e-83a2e1da14d5.png">
 
 ## The complete prompt/direction for "numberOfWordsComparator.java" "pointComparator.java" "stringParticularFormatComparator.java" is as follow:
-<img width="565" alt="image" src="https://user-images.githubusercontent.com/100184045/194794058-797e88ee-5e35-4c81-8139-3766f826fb21.png">
-<img width="566" alt="image" src="https://user-images.githubusercontent.com/100184045/194794068-3065e53c-8ca0-42d8-9249-37cf82529214.png">
+<img width="574" alt="image" src="https://user-images.githubusercontent.com/100184045/194796220-de3c1f7f-aa78-448e-904a-c2c3dfdecc83.png">
